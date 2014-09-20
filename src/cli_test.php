@@ -6,6 +6,6 @@ class CLI_Test
 
 	function output()
 	{
-		echo $test;
+		echo $this->test;
 	}
 }
