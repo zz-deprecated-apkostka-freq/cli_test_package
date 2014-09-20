@@ -1,0 +1,21 @@
+{
+    "name":        "vlapkostka/cli_test_package",
+    "type":        "library",
+
+    "description": "A package to satisfy the cli interview test",
+
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name":  "Andrew Kostka",
+            "email": "andrew.kostka@vantagelocal.com",
+            "role":  "Developer"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+}
